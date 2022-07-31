@@ -22,7 +22,7 @@ title: Maze的笔记
 email: 406732060@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
   记录一些自己感兴趣的东西.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mazelinux.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: maze
 github_username:  mazelinux
