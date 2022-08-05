@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wayland book Libwayland in depth:Wayland-util primitives"
+title:  "3.1 Wayland book Libwayland in depth:Wayland-util primitives"
 date:   2022-08-02 21:16:29 +0800
 categories: jekyll update
 ---

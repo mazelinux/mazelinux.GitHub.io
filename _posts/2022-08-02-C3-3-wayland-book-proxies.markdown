@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wayland book Libwayland in depth:Proxies & resources"
+title:  "3.3 Wayland book Libwayland in depth:Proxies & resources"
 date:   2022-08-02 21:21:29 +0800
 categories: jekyll update
 ---

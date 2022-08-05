@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wayland book Protocol design"
+title:  "2 Wayland book Protocol design"
 date:   2022-08-02 20:59:29 +0800
 categories: jekyll update
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wayland book Protocol design:Wire protocol basics"
+title:  "2.1 Wayland book Protocol design:Wire protocol basics"
 date:   2022-08-02 21:01:29 +0800
 categories: jekyll update
 ---

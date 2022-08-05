@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wayland book Introduction:High-level design"
+title:  "1.1 Wayland book Introduction:High-level design"
 date:   2022-07-31 22:31:29 +0800
 categories: jekyll update
 ---

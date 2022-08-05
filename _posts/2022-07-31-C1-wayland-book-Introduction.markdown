@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wayland-book Introduction"
+title:  "1 Wayland-book Introduction"
 date:   2022-07-31 22:10:29 +0800
 categories: jekyll update
 ---
