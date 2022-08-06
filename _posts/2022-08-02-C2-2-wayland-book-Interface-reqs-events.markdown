@@ -83,3 +83,5 @@ simply turn the page to end the suspense.
 
 接口定义请求和事件，相关的操作码以及可以用来解码消息的签名 &mdash; 这些都是事前协定的。
 我相信你肯定很想知道原理 &mdash; 只需翻页即可解答你的疑问。
+
+原文链接:https://wayland-book.com/

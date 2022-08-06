@@ -88,3 +88,5 @@ of writing) is straightforward and should set you on the right path.
 
 不幸的是，Compositor 相关（dmabuf）的细节实现太过复杂，超出了本书范畴。但是我可以为你指明方向：
 wlroots 的实现（可以在 types/wlr_linux_dmabuf_v1.c 找到）非常简单，是一个正确的参考实现。
+
+原文链接:https://wayland-book.com/

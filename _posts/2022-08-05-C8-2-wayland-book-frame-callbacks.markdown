@@ -225,3 +225,5 @@ updated client to try it out for yourself!
 
 [^1]: Want something more accurate? In chapter 12.1 we talk about a protocol extension which tells you with nanosecond resolution exactly when each frame was presented to the user.
 [^1]：想要更准确的东西？ 在第 12.1 章中，我们讨论了一个协议扩展，它以纳秒级的时间戳准确地告诉你每一帧何时呈现给用户。
+
+原文链接:https://wayland-book.com/

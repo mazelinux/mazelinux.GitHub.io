@@ -47,3 +47,5 @@ for chapter 10. The request we want to look into first is `get_xdg_surface`.
 发送 “ping” event 时，你（client 端）应该及时响应 “pong” request 以表明你处于可响应状态
 （译者注：否则的话，就类似微软的 Windows 操作系统，有时候遇见的“窗口未响应”）。另一个 request 则用于创建我们前面提到的
 positioner （定位器）对象，我们将在第 10 章对其展开讨论。这里，我们首先来研究一下 `get_xdg_surface` request。
+
+原文链接:https://wayland-book.com/

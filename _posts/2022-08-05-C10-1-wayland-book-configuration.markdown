@@ -235,3 +235,5 @@ corresponding configure event.
 [^1]: This takes into account the window geometry sent by the `set_window_geometry` request from the client. The suggested size only includes the space represented by the window geometry.
 
 [^1]：这考虑了客户端通过 `set_window_geometry` 请求发送的窗口几何图形。 建议的大小仅包括由窗口几何图形表示的空间。
+
+原文链接:https://wayland-book.com/

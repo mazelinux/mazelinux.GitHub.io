@@ -113,3 +113,5 @@ In summary, the following steps will take you from zero to a window on-screen:
 Turn the page to see these steps in action.
 
 点击下一页查看这些步骤的实际用法。
+
+原文链接:https://wayland-book.com/

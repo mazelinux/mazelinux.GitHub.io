@@ -42,3 +42,5 @@ detail on how to apply these primitives in the next several pages.
 listener 代表一组用于监听消息的回调函数，当我们对这些基本对象有了足够的了解后，我们就会
 对 wayland 协议有比较深刻的理解。
 
+
+原文链接:https://wayland-book.com/

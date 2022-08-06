@@ -163,3 +163,5 @@ one. If you don't, you'll be disconnected with a protocol error.
 
 但是，有一个细节值得一提：您必须自上而下销毁所有弹出窗口。 您可以在任何特定时刻销毁的唯
 一弹出窗口是最顶部的弹出窗口。 如果不这样做，您将因协议错误而断开连接。
+
+原文链接:https://wayland-book.com/

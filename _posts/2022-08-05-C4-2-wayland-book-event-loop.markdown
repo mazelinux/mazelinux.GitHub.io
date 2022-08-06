@@ -99,3 +99,5 @@ Wayland client!
 就目前为止，你已拥有设置 Wayland display 和处理 event 和 request 所需的所有环境相关的方法函数。
 剩下的唯一步骤是分配 object 以与另一边进行连接，交互。我们使用 registry 实现上述需求。
 在下一章的结尾，我们将拥有第一个可用的 Wayland 客户端！
+
+原文链接:https://wayland-book.com/

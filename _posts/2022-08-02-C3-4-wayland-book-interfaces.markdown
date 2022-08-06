@@ -150,3 +150,5 @@ those?
 是如何从你的 server 端代码开始，变成网络上的消息，接着被 client 解析，并被派发到你的 client
 代码逻辑中。然而，还有一个问题没有得到解答：所有这些分析，都是建立在你已经有了 Wayland objects
 的引用这一前提上。那么你是如何获得这些对象（object）的呢？
+
+原文链接:https://wayland-book.com/

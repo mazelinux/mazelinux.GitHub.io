@@ -47,3 +47,5 @@ client & server code interacts with to accomplish a majority of their tasks.
 
 另外还有一个更上层的接口集合（封装了 client 端和 server 端各种底层函数），用来与 wayland client
 和 server 端代码进行交互，从而完成大部分的任务。
+
+原文链接:https://wayland-book.com/

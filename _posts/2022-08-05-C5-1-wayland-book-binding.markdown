@@ -136,3 +136,5 @@ Try it now with the "globals" program!
 **注意**：这一章是我们最后一次展示十六进制的有线协议 dump，可能也是你最后一次看到它们的情况。
 跟踪 Wayland client 或 server 的一个更好的方法是在运行程序之前将环境中的 WAYLAND_DEBUG 变量设置为 1。
 现在试试 "globals" 程序吧!
+
+原文链接:https://wayland-book.com/

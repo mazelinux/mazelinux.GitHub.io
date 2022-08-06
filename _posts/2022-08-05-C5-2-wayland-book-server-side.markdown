@@ -202,3 +202,5 @@ XML before implementing this event in your client or server.
 
 [^2]: A slightly more sophisticated version of our "globals" program called `weston-info` is available from the Weston project, if you're interested in something more robust.
 [^2]: 如果你对更加强大的相关实现感兴趣，可以从 Weston 项目中获得一个实现稍微复杂的名为 "weston_info" 的 "global" 程序。 
+
+原文链接:https://wayland-book.com/

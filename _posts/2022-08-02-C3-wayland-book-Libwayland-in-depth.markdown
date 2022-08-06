@@ -29,3 +29,5 @@ Wayland 协议的核心实现。
 We'll start by introducing the primitives.
 
 我们将从对基本单元（primitive）的介绍开始。
+
+原文链接:https://wayland-book.com/

@@ -101,3 +101,5 @@ printf("UTF-8 input: %s\n", buf);
 Equipped with these details, we're ready to tackle processing keyboard input.
 
 [^1]: xkbcommon ships with a pc file: use `pkgconf --cflags xkbcommon` and `pkgconf --libs xkbcommon`, or your build system's preferred way of consuming pc files.
+
+原文链接:https://wayland-book.com/

@@ -52,3 +52,5 @@ damage relative to the buffer, which is generally easier to reason about.
 实际上已被弃用，你应该只使用后者。它们之间的区别在于损坏考虑了影响表面的所有变换，
 例如旋转、缩放比例因子、缓冲区位置变化和裁剪。后者施加相对于缓冲区的损坏，这通常更
 容易理解。
+
+原文链接:https://wayland-book.com/

@@ -117,3 +117,5 @@ which versions of each interface are in use by each party.
 [^2]: Note that many useful protocols are still unstable at the time of writing. They may be a little kludgy, but they still see widespread use, which is why backwards compatibility is important. When promoting a protocol from unstable to stable, it's done in a way that allows software to support both the unstable and stable protocols simultaneously, allowing for a smoother transition.
 
 [^2]: 请注意，在撰写本文时，许多有用的协议仍然不稳定。它们可能有点笨拙，但它们仍然被广泛使用，这就是向后兼容性很重要的原因。将协议从不稳定升级到稳定时，其方式是允许软件同时支持不稳定和稳定协议，从而实现更平滑的过渡。
+
+原文链接:https://wayland-book.com/

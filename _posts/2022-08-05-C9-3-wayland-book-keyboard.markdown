@@ -175,3 +175,5 @@ doooooown. This event is sent to inform the client of the user's preferences
 for key repeat settings. The "delay" is the number of milliseconds a key should
 be held down for before key repeat kicks in, and the "rate" is the number of
 characters per second to repeat until the key is released.
+
+原文链接:https://wayland-book.com/

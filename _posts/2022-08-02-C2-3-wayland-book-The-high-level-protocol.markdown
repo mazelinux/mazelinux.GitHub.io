@@ -62,3 +62,5 @@ Starting from chapter 4, most of the remainder of this book is devoted to
 explaining this file, as well as some supplementary protocol extensions.
 
 从第 4 章开始，本书其余部分的大部分内容都致力于解释这个文件，以及一些补充协议扩展。
+
+原文链接:https://wayland-book.com/

@@ -81,3 +81,5 @@ The next question is: when should I prepare a new frame?
 [^1]: This is used by the compositor for optimization purposes.
 
 [^1]：用于合成器优化（合成逻辑）。
+
+原文链接:https://wayland-book.com/

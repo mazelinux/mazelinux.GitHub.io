@@ -73,3 +73,5 @@ Before we can present it, we must first attach a source of pixels to it: a
 `wl_buffer`.
 
 在真正显示它之前，需要首先为它添加一个像素源：一个 `wl_buffer`。
+
+原文链接:https://wayland-book.com/

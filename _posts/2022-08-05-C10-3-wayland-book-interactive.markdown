@@ -168,3 +168,5 @@ decorations. For more details, consult the full XML.
 
 set_mode 请求用于表示来自客户端的偏好，而 unset_mode 用于表示没有偏好。 然后合成器
 将使用配置事件告诉客户端是否使用客户端装饰。 有关更多详细信息，请参阅完整的 XML。
+
+原文链接:https://wayland-book.com/

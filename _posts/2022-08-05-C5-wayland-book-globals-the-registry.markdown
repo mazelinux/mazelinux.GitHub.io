@@ -102,3 +102,5 @@ to be governed by the `wl_registry` interface:
 It is this interface which we'll discuss in the following chapters.
 
 我们将在接下来的章节中讨论这个接口。
+
+原文链接:https://wayland-book.com/

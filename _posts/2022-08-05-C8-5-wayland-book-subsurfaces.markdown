@@ -112,3 +112,5 @@ committed in accordance with the sync/desync status of the subsurface.
 
 [^1]: Disregarding the deprecated `wl_shell` interface.
 [^1]：`wl_shell` 接口,被弃用的。
+
+原文链接:https://wayland-book.com/

@@ -20,3 +20,5 @@ handles being the most common.
 
 buffer 和 surface 两个基本单元用于此目的，分别由 `wl_buffer` 和 `wl_surface` 接口管理。缓冲区充当一些底层像素存储的不透明容器，
 由客户端提供多种方法（实现） &mdash; 共享内存缓冲区和 GPU handle 是最常见的。
+
+原文链接:https://wayland-book.com/

@@ -282,3 +282,5 @@ If you guard your accesses to the buffer data with `begin_access` and
 如果你在访问 buffer 数据的时候调用 `begin_access` 和 `end_access`, libwayland 将会对 buffer 进行锁保护。
 
 
+
+原文链接:https://wayland-book.com/

@@ -154,3 +154,5 @@ libwayland does:
 3.	假设套接字名称是 `wayland-0`，与 `XDG_RUNTIME_DIR` 字符拼接，以形成 Unix socket 的路径并连接。
 4.	放弃。
 
+
+原文链接:https://wayland-book.com/

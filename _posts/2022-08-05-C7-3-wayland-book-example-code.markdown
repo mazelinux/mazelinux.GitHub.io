@@ -239,3 +239,5 @@ main(int argc, char *argv[])
     return 0;
 }
 ```
+
+原文链接:https://wayland-book.com/

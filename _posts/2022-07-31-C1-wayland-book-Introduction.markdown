@@ -88,3 +88,5 @@ i3 的克隆版。不管以何种标准（来排序），它都是现在最流�
 用户量、（社区）提交计数和影响力。继其成功之后，Drew 回到 Wayland 社区，开始 wlroots 项目：
 用于构建 Wayland compositor 的无限制的、可组合的模块。如今是数十个相对独立的 compositor
 的基础，Drew 是 Wayland 最重要的专家之一。
+
+原文链接:https://wayland-book.com/

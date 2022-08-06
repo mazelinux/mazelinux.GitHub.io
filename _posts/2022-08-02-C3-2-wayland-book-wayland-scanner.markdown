@@ -62,3 +62,5 @@ the generated code.
 可能存放着一份 `wayland.xml` 文件）。请仔细阅读协议实现代码及其头文件，并在阅读下面的
 章节时进行参考，从而进一步理解 libwayland 所提供的 primitive 在实际的粘合代码中是如何运用的。
 
+
+原文链接:https://wayland-book.com/

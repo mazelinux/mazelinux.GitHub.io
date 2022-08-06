@@ -96,3 +96,5 @@ govern its own behaviors for arranging and interacting with the window.
 surface 中，哪些区域是窗口的一部分，哪些区域不是。最常见的用法，则是使用该请求来排除窗口
 后面呈现的阴影区域（client-side drop-shadow）。compositor可以通过该信息来管理窗口排列
 和窗口交互的具体行为。
+
+原文链接:https://wayland-book.com/

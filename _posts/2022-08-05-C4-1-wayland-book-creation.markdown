@@ -170,3 +170,5 @@ loop? Turn the page and find out!
 
 添加 socket 后，调用 `wl_display_run` 将运行 libwayland 内部的 event loop 并阻塞，直到调
 用 `wl_display_terminate`。 event loop 是怎样工作的？ 翻开下一页，一探究竟！ 
+
+原文链接:https://wayland-book.com/

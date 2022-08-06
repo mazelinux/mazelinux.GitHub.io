@@ -73,3 +73,5 @@ connect to.
 
 我们将从这些功能中最重要的部分开始介绍：建立 display。 对于 client，（建立 display）将包含连接到
 server 的实际操作过程，而对于 server，将包含为 client 创建并配置用于连接的 display 的全部过程。
+
+原文链接:https://wayland-book.com/

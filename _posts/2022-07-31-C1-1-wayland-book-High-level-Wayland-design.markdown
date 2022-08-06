@@ -243,3 +243,5 @@ responsibilities, while others implement everything in-house.
 许多图形应用程序根本不了解 Wayland，而是选择 GTK+、Qt、SDL 和 GLFW 等库来处理它。 许多
 合成器处理者选择 wlroots 之类的软件来抽象出他们（合成器）的更多职责，而另一些人则在（合成器）
 内部实现一切。
+
+原文链接:https://wayland-book.com/

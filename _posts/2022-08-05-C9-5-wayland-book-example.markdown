@@ -859,3 +859,5 @@ least chapter 10.1 before you start building your own client, as it covers
 things like having the window resized at the compositor's request.
 
 [^1]: This actually does happen in practice!
+
+原文链接:https://wayland-book.com/

@@ -95,3 +95,5 @@ the compositor will scale it up.
 在下一次 wl_surface.commit 时，您的表面将采用此比例因子。 如果它大于显示表面的输出的比例因子，
 合成器会将其缩小。 如果它小于输出的比例因子，合成器将放大它。
 
+
+原文链接:https://wayland-book.com/

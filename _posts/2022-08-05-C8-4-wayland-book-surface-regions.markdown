@@ -121,3 +121,5 @@ after you send these requests will not update the state of the surface.
 发送 `wl_surface.commit` 以使你的更改生效。 你可以在发送 `set_opaque_region` 或
 `set_input_region` 请求后立即销毁 `wl_region` 对象以释放其资源。发送这些请求后更新区域
 不会更新表面的状态。
+
+原文链接:https://wayland-book.com/
