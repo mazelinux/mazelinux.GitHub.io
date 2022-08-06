@@ -2,7 +2,7 @@
 layout: post
 title:  "6 Wayland book Buffers & surfaces"
 date:   2022-08-05 113:39:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Buffers & surfaces
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "10.3 Wayland book Interactive move and resize"
 date:   2022-08-05 15:16:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Interactive move and resize
 

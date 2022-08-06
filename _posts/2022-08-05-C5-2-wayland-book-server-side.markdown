@@ -2,7 +2,7 @@
 layout: post
 title:  "5.2 Wayland book Registering globals"
 date:   2022-08-05 11:21:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Registering globals
 

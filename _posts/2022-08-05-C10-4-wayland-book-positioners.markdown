@@ -2,7 +2,7 @@
 layout: post
 title:  "10.4 Wayland book Positioners"
 date:   2022-08-05 15:17:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Positioners
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "2.4 Wayland book Protocol design:Protocol design patterns"
 date:   2022-08-02 21:11:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Protocol design patterns
 

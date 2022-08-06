@@ -2,7 +2,7 @@
 layout: post
 title:  "8.4 Wayland book Surface regions"
 date:   2022-08-05 14:57:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Surface regions
 

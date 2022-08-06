@@ -2,7 +2,7 @@
 layout: post
 title:  "2 Wayland book Protocol design"
 date:   2022-08-02 20:59:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Protocol design
 

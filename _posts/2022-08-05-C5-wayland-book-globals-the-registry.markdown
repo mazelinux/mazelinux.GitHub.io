@@ -2,7 +2,7 @@
 layout: post
 title:  "5 Wayland book Globals & the registry"
 date:   2022-08-05 11:17:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Globals & the registry
 

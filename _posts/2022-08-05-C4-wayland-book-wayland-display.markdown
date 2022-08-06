@@ -2,7 +2,7 @@
 layout: post
 title:  "4 Wayland book The Wayland display"
 date:   2022-08-05 11:05:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # The Wayland display
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "6.2 Wayland book Shared memory buffers"
 date:   2022-08-05 13:43:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Shared memory buffers
 

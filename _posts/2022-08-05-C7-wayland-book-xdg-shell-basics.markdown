@@ -2,7 +2,7 @@
 layout: post
 title:  "7 Wayland book XDG shell basics"
 date:   2022-08-05 13:50:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # XDG shell basics
 

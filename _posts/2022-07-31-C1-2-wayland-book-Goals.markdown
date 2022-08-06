@@ -2,7 +2,7 @@
 layout: post
 title:  "1.2 Wayland book Introduction:Goals & target audience"
 date:   2022-07-31 22:31:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Goals & target audience
 

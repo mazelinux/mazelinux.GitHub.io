@@ -2,7 +2,7 @@
 layout: post
 title:  "9.1 Wayland book Pointer input"
 date:   2022-08-05 15:06:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Pointer input
 

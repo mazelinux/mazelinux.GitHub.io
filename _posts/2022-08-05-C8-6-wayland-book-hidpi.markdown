@@ -2,7 +2,7 @@
 layout: post
 title:  "8.6 Wayland book High density surfaces (HiDPI)"
 date:   2022-08-05 14:59:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # High density surfaces (HiDPI)
 

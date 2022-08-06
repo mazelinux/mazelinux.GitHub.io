@@ -2,7 +2,7 @@
 layout: post
 title:  "10.1 Wayland book Configuration & lifecycle"
 date:   2022-08-05 15:15:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Configuration & lifecycle
 

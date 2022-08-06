@@ -2,7 +2,7 @@
 layout: post
 title:  "9 Wayland book Seats: Handling input"
 date:   2022-08-05 15:05:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Seats: Handling input
 

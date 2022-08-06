@@ -2,7 +2,7 @@
 layout: post
 title:  "2.3 Wayland book Protocol design:The high-level protocol"
 date:   2022-08-02 21:08:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # The high-level protocol
 

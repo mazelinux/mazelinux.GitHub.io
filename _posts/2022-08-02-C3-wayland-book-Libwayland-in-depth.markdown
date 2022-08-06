@@ -2,7 +2,7 @@
 layout: post
 title:  "3 Wayland book Libwayland in depth"
 date:   2022-08-02 21:13:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # The libwayland implementation
 

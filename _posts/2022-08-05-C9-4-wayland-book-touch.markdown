@@ -2,7 +2,7 @@
 layout: post
 title:  "9.4 Wayland book Touch input"
 date:   2022-08-05 15:08:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Touch input
 

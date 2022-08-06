@@ -2,7 +2,7 @@
 layout: post
 title:  "3.2 Wayland book Libwayland in depth:Wayland-scanner"
 date:   2022-08-02 21:19:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # wayland-scanner
 

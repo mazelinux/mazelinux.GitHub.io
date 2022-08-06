@@ -2,7 +2,7 @@
 layout: post
 title:  "7.1 Wayland book XDG surfaces"
 date:   2022-08-05 13:52:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # XDG surfaces
 

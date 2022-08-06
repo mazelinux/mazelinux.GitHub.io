@@ -2,7 +2,7 @@
 layout: post
 title:  "8 Wayland book Surfaces in depth"
 date:   2022-08-05 14:52:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Surfaces in depth
 

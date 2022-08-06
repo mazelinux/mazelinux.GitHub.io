@@ -2,7 +2,7 @@
 layout: post
 title:  "9.2 Wayland book XKB, briefly"
 date:   2022-08-05 15:07:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # XKB, briefly
 

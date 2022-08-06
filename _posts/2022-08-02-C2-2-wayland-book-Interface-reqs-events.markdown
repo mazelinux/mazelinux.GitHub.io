@@ -2,7 +2,7 @@
 layout: post
 title:  "2.2 Wayland book Protocol design:Interface, requests, events"
 date:   2022-08-02 21:06:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Interfaces, requests, and events
 

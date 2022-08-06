@@ -2,7 +2,7 @@
 layout: post
 title:  "6.1 Wayland book Using wl_compositor"
 date:   2022-08-05 13:42:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Using wl_compositor
 

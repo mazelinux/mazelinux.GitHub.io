@@ -2,7 +2,7 @@
 layout: post
 title:  "3.4 Wayland book Libwayland in depth:Interfaces & listeners"
 date:   2022-08-02 21:26:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Interfaces & listeners
 

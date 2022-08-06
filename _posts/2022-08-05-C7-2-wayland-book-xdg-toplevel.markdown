@@ -2,7 +2,7 @@
 layout: post
 title:  "7.2 Wayland book Application windows"
 date:   2022-08-05 13:55:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Application windows
 

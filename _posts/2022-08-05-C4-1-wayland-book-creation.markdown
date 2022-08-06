@@ -2,7 +2,7 @@
 layout: post
 title:  "4.1 Wayland book Creating a display"
 date:   2022-08-05 11:07:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Creating a display
 

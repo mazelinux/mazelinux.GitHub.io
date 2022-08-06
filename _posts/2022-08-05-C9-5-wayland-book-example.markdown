@@ -2,7 +2,7 @@
 layout: post
 title:  "9.5 Wayland book Expanding our example code"
 date:   2022-08-05 15:09:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Expanding our example code
 

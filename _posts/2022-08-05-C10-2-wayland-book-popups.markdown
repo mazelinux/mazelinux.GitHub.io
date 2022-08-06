@@ -2,7 +2,7 @@
 layout: post
 title:  "10.2 Wayland book Popups & parent windows"
 date:   2022-08-05 15:15:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Popups
 

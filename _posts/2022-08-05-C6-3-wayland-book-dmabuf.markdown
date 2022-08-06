@@ -2,7 +2,7 @@
 layout: post
 title:  "6.3 Wayland book Linux dmabuf"
 date:   2022-08-05 13:44:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Linux dmabuf
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "8.5 Wayland book Subsurfaces"
 date:   2022-08-05 14:58:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Subsurfaces
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "4.2 Wayland book Incorporating an event loop"
 date:   2022-08-05 11:08:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # Incorporating an event loop
 

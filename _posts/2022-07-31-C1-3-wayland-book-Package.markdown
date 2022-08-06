@@ -2,7 +2,7 @@
 layout: post
 title:  "1.3 Wayland book Introduction:What's in the Wayland package"
 date:   2022-07-31 22:31:29 +0800
-categories: jekyll update
+categories: waylandbook
 ---
 # What's in the Wayland package
 
