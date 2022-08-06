@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "8.2 Wayland book Frame callbacks"
-date:   2022-08-05 13:55:29 +0800
+date:   2022-08-05 14:53:29 +0800
 categories: jekyll update
 ---
 # Frame callbacks

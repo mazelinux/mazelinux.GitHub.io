@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "8.3 Wayland book Damaging surfaces"
-date:   2022-08-05 13:56:29 +0800
+date:   2022-08-05 14:55:29 +0800
 categories: jekyll update
 ---
 # Damaging surfaces

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "8.1 Wayland book Surface lifecycle"
-date:   2022-08-05 13:54:29 +0800
+date:   2022-08-05 14:53:29 +0800
 categories: jekyll update
 ---
 # Surface lifecycle
